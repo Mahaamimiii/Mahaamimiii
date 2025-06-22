@@ -1,6 +1,6 @@
 
 
-<h1 align="center">✨ Hey there, I'm <span style="color:#e91e63">Mahashree Uvaraj</span> ✨</h1>
+<h1 align="center">✨<span style="color:#e91e63">Mahashree Uvaraj</span> ✨</h1>
 <p align="center">
   🎓 AI & Data Science Student | ☁️ Cloud Enthusiast | 💻 Full-Stack Developer | 🧠 Researcher | 🎨 Creative Entrepreneur
 </p>
