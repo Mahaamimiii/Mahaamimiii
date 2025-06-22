@@ -1,89 +1,84 @@
-# Mahashree-U
-<h1 align="center">👋 Hi, I'm Mahashree Uvaraj</h1>
+# Mahashree Uvaraj
+
+<h1 align="center">✨ Hey there, I'm <span style="color:#e91e63">Mahashree Uvaraj</span> ✨</h1>
 <p align="center">
-  🎓 AI & Data Science Student | ☁️ Cloud Enthusiast | 💻 Full-Stack Developer in Progress | 🧠 Researcher | 🎨 Entrepreneur
+  🎓 AI & Data Science Student | ☁️ Cloud Enthusiast | 💻 Full-Stack Developer | 🧠 Researcher | 🎨 Creative Entrepreneur
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mahaamimiii&style=flat-square&color=ff69b4" alt="Profile views" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm **Mahashree Uvaraj**, a tech-driven individual currently pursuing B.Tech in **Artificial Intelligence and Data Science**.
+I'm **Mahashree Uvaraj**, a tech-driven and creatively inclined individual currently pursuing B.Tech in **Artificial Intelligence and Data Science**. I’m passionate about bridging the gap between innovation and impact through cloud computing, data analytics, software development, and intuitive design.
 
-I’m passionate about **Cloud Computing**, **Data Science**, **Full-Stack Development**, and **UI/UX Design**.  
-I'm also a researcher — currently co-authoring an **IEEE-style paper on NeuroBuddyAI**, a cloud-based, emotion-aware e-learning platform tailored for neurodivergent students.
+As a proud advocate of women in tech, I'm constantly building, learning, and growing — whether it's contributing to research, scaling creative ideas, or designing inclusive tools that make a difference.
 
-I'm working on building my own **art e-commerce website**, and a **vendor performance dashboard** using SQL, Python, and Power BI.
+🔬 Currently co-authoring an **IEEE-style research paper on NeuroBuddyAI**, a behavior-aware learning platform for neurodivergent students.  
+🎨 Running my own **art business**, building a full-fledged e-commerce platform to take it digital.  
+📈 Developing a vendor analytics dashboard using **SQL + Python + Power BI**.
 
 ---
 
 ## 🚧 Currently Working On
 
 - 🧠 **NeuroBuddyAI Research Paper**  
-  Emotion + behavior-aware learning platform using **AI, ML, and Cloud** for neurodivergent students
+  Emotion-aware, cloud-based learning tool built using **AI, ML, and Azure Cloud** for neurodivergent learners.
 
-- 🖼️ **Art E-Commerce Website**  
-  Creating a custom website to showcase and sell original art using HTML, CSS, and React (ongoing)
+- 🖼️ **Mimi Arts E-Commerce Website**  
+  A personal venture to showcase and sell artwork online using **HTML, CSS, React** — already ₹10,000+ in sales!
 
 - 📊 **Vendor Performance Dashboard**  
-  Data analytics project using **SQL**, **Python**, and **Power BI** to assess and monitor vendor KPIs
+  Leveraging **SQL, Python, and Power BI** for data-driven analysis of supplier KPIs and business trends.
 
 ---
 
-## 🛠️ Skills & Tools
+## 💼 Skills & Technologies
 
-- **Cloud Platforms:** Microsoft Azure, AWS (EC2, S3, SNS)
-- **Programming:** Python, Java, C
-- **Frontend:** HTML, CSS, JavaScript, React (in progress)
-- **Data Tools:** Power BI, SQL, Pandas
-- **Version Control:** Git, GitHub
-- **UI/UX Design:** Figma, Lucidchart
+**Cloud & DevOps**  
+Microsoft Azure, AWS (EC2, S3, SNS)
+
+**Programming**  
+Python, Java, C
+
+**Frontend Development**  
+HTML, CSS, JavaScript, React (in progress)
+
+**Data & Visualization**  
+SQL, Pandas, Power BI
+
+**Version Control**  
+Git, GitHub
+
+**Design & Prototyping**  
+Figma, Lucidchart
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 🧠 NeuroBuddyAI (IEEE Research Project)
-AI-powered e-learning for neurodivergent students  
-- Combines **emotion recognition**, **RL-based adaptation**, and **Azure Cloud**  
-- Smart notification engine, behavior-aware learning  
-- Built with **React**, **FastAPI**, **Firebase/Azure**  
-📌 IEEE-style research paper in progress
-
----
+> An intelligent, cloud-enabled learning assistant for neurodivergent students.
+- Uses **emotion recognition**, **reinforcement learning**, and **behavior analytics**
+- Built with **React**, **FastAPI**, **Azure Cognitive Services**, **Firebase**
+- IEEE-style research paper in progress
 
 ### 🩺 VirtualHealthAI
-Cloud-based health assistant using Azure  
-- Uses Azure Cognitive Services, Blob, Functions, Power BI  
-- Analyzes symptoms, recommends care paths, and visualizes reports
-
----
+> AI-powered health assistant using Azure for symptom analysis and Power BI for medical report dashboards.
 
 ### 🌍 ReGeo
-Multi-cloud attendance system with face recognition and geofencing  
-- Azure Face API, AWS SNS, MongoDB  
-- Real-time updates and cross-cloud integration
+> Multi-cloud attendance system using **Azure Face API** and **AWS SNS**, integrated with geofencing and MongoDB.
 
----
+### 🎮 AUTILEARN
+> A visual & auditory e-learning platform for neurodivergent children using speech-to-text and gamified design.
 
-### 🧠 AUTILEARN
-Neuro-inclusive e-learning for autistic kids  
-- HTML, JS, Speech-to-Text, gamified learning  
-- Interactive platform for early speech and color/emotion learning
+### 🖼️ Mimi Arts E-Commerce Website *(In Progress)*
+> My own business portal for selling handcrafted artworks. Scalable and stylish, built with **React + CSS**.
 
----
-
-### 🖼️ Art E-Commerce Website (Ongoing)
-Personal business website to sell art online  
-- Developed using HTML, CSS, React  
-- ₹10,000+ revenue so far; now building a scalable platform
-
----
-
-### 📊 Vendor Performance Dashboard (Ongoing)
-Analytics dashboard using SQL, Python, Power BI  
-- Tracks supplier metrics and trends  
-- Designed for clean reporting and actionable insights
+### 📊 Vendor Performance Dashboard *(In Progress)*
+> Business analytics dashboard using **SQL, Python, Power BI** to visualize supplier effectiveness and trends.
 
 ---
 
@@ -91,44 +86,46 @@ Analytics dashboard using SQL, Python, Power BI
 
 - 🥇 **Winner** – Azure AI Innovation Challenge 2024 (Microsoft Reactor, Bangalore)  
 - 🥈 **Runner-up** – Hack-a-Cloud 2025  
-- 💼 Internship – Java + Web Dev at DLK Technologies
+- 💼 Internship – Java + Web Development (DLK Technologies)
 
 ---
 
 ## 📜 Certifications
 
-- Microsoft Certified: Azure Fundamentals (AZ-900)  
-- AWS: Introduction to Cloud  
-- C Programming – Skillrack
+- ✅ Microsoft Certified: Azure Fundamentals (AZ-900)  
+- ✅ AWS Introduction to Cloud  
+- ✅ C Programming – Skillrack
 
 ---
 
 ## 📎 Resume & Links
 
-- 📄 [Resume]([https://github.com/Mahaamimiii/Mahaamimiii/blob/main/MahashreeU%20Resume%20updated.pdf])
-- 🔗 [LinkedIn](https://www.linkedin.com/in/mahashree-uvaraj-aa9907289/)
-- 📊 [Microsoft AZ-900](https://learn.microsoft.com/en-us/users/mahashreeuvaraj-0656/credentials/fc6d5dfe9e3e55f8?ref=https%3A%2F%2Fwww.linkedin.com%2F)
-- 🏅 [AWS Semester](https://www.credly.com/badges/074bf6b5-6219-4806-a7bf-45ad89a51ce8/public_url)
+- 📄 [Download Resume](https://github.com/Mahaamimiii/Mahaamimiii/raw/main/MahashreeU_Resume.pdf)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mahashree-uvaraj-aa9907289/)
+- 📊 [AZ-900 Credential](https://learn.microsoft.com/en-us/users/mahashreeuvaraj-0656/credentials/fc6d5dfe9e3e55f8)
+- 🏅 [AWS Badge](https://www.credly.com/badges/074bf6b5-6219-4806-a7bf-45ad89a51ce8/public_url)
 - 🧪 [Skillrack](http://www.skillrack.com/profile/448535/9b2694d6786f2d945e426915fdbd18ad4e504f6f)
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats & Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mahaamimiii&show_icons=true&theme=tokyonight" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahaamimiii&theme=radical" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahaamimiii&layout=compact&theme=rose_pine" />
 </p>
 
 ---
 
-## 📬 Let’s Connect
+## 🌐 Let’s Connect
 
-Whether it’s about building cloud apps, collaborating on AI research, or just sharing creative energy — I’d love to connect!
+I'm always open to collaboration, mentorship, and creative tech ideas.
 
 - 📩 **Email**: mahashree20uva@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/mahashree-uvaraj-aa9907289/) – Let’s grow our tech circles  
-- 🎨 [Instagram – Mimi Arts](https://www.instagram.com/mimi._arts_/) – Explore my art and creative journey  
+- 🎨 [Instagram – Mimi Arts](https://www.instagram.com/mimi._arts_/) – Explore my art and creative world  
 
-> ✨ Tech + Art. Code + Canvas. Let's innovate, collaborate, and create.
+> ✨ *Blending logic with creativity, and technology with empathy. Let’s innovate, collaborate, and create.*
