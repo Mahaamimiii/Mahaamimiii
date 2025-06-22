@@ -1,6 +1,5 @@
-# Mahashree Uvaraj
 
-<h1 align="center"><span style="color:#e91e63">Mahashree U</span> </h1>
+<h1 align="center"><span style="color:#e91e63">MAHASHREE U</span> </h1>
 <p align="center">
   🎓 AI & Data Science Student | ☁️ Cloud Enthusiast | 💻 Full-Stack Developer | 🧠 Researcher | 🎨 Creative Entrepreneur
 </p>
