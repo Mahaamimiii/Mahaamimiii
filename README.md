@@ -1,6 +1,6 @@
 # Mahashree Uvaraj
 
-<h1 align="center"><span style="color:#e91e63">Mahashree Uvaraj</span> </h1>
+<h1 align="center"><span style="color:#e91e63">Mahashree U</span> </h1>
 <p align="center">
   🎓 AI & Data Science Student | ☁️ Cloud Enthusiast | 💻 Full-Stack Developer | 🧠 Researcher | 🎨 Creative Entrepreneur
 </p>
@@ -127,13 +127,3 @@ I'm always open to collaboration, mentorship, and creative tech ideas:
 
 > ✨ *Blending logic with creativity, and technology with empathy. Let’s innovate, collaborate, and create.*
 
-
-## 🌐 Let’s Connect
-
-I'm always open to collaboration, mentorship, and creative tech ideas.
-
-- 📩 **Email**: mahashree20uva@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/mahashree-uvaraj-aa9907289/) – Let’s grow our tech circles  
-- 🎨 [Instagram – Mimi Arts](https://www.instagram.com/mimi._arts_/) – Explore my art and creative world  
-
-> ✨ *Blending logic with creativity, and technology with empathy. Let’s innovate, collaborate, and create.*
