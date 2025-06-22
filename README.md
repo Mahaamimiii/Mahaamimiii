@@ -105,7 +105,7 @@ Analytics dashboard using SQL, Python, Power BI
 
 ## 📎 Resume & Links
 
-- 📄 [Resume](https://github.com/Mahaamimiii/Mahaamimiii/blob/main/MahashreeU%20Resume%20updated.pdf)
+- 📄 [Resume]([https://github.com/Mahaamimiii/Mahaamimiii/blob/main/MahashreeU%20Resume%20updated.pdf])
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mahashree-uvaraj-aa9907289/)
 - 📊 [Microsoft AZ-900](https://learn.microsoft.com/en-us/users/mahashreeuvaraj-0656/credentials/fc6d5dfe9e3e55f8?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 - 🏅 [AWS Semester](https://www.credly.com/badges/074bf6b5-6219-4806-a7bf-45ad89a51ce8/public_url)
