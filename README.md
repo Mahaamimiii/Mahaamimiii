@@ -129,6 +129,6 @@ Whether it’s about building cloud apps, collaborating on AI research, or just 
 
 - 📩 **Email**: mahashree20uva@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/mahashree-uvaraj-aa9907289/) – Let’s grow our tech circles  
-- 🎨 [Instagram – Mimi Arts](https://instagram.com/mimi__arts) – Explore my art and creative journey  
+- 🎨 [Instagram – Mimi Arts](https://www.instagram.com/mimi._arts_/) – Explore my art and creative journey  
 
 > ✨ Tech + Art. Code + Canvas. Let's innovate, collaborate, and create.
