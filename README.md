@@ -4,13 +4,6 @@
 <p align="center">
   AI & Data Science Student |  Cloud Enthusiast |  Researcher | Creative Entrepreneur
 </p>
-
-<p align="center">
-  <a href="https://github.com/Mahaamimiii">
-    <img src="https://komarev.com/ghpvc/?username=Mahaamimiii&style=for-the-badge&label=Profile+Views&color=ffb6c1" alt="Profile views" />
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
