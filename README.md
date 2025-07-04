@@ -38,11 +38,10 @@ Hi, I'm **Mahashree Uvaraj**, a passionate AI & Data Science student, creative e
   <a href="https://www.instagram.com/mimi._arts_/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://github.com/Mahaamimiii/Mahaamimiii/raw/main/MahashreeU_Resume.pdf">
+  <a href="https://github.com/Mahaamimiii/Mahaamimiii/blob/18964338bf4e691fca5daa9f4387dceb17f70e0e/MahashreeU%20Resume.1%20(1).pdf">
     <img src="https://img.shields.io/badge/Download%20Resume-FF69B4?style=for-the-badge&logo=readthedocs&logoColor=white" />
   </a>
 </p>
-
 ---
 
 ## 🛠️ Tech Stack
