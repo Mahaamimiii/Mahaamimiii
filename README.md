@@ -1,110 +1,126 @@
+# Mahashree Uvaraj
 
-<h1 align="center"><span style="color:#e91e63">MAHASHREE U</span> </h1>
+<h1 align="center"><span style="color:#e91e63">Mahashree Uvaraj</span> </h1>
 <p align="center">
-  🎓 AI & Data Science Student | ☁️ Cloud Enthusiast | 💻 Full-Stack Developer | 🧠 Researcher | 🎨 Creative Entrepreneur
+  AI & Data Science Student |  Cloud Enthusiast |  Researcher | Creative Entrepreneur
 </p>
 
 <p align="center">
   <a href="https://github.com/Mahaamimiii">
-    <img src="https://komarev.com/ghpvc/?username=Mahaamimiii&style=flat-square&label=Profile+Views&color=ffb6c1" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Mahaamimiii&style=for-the-badge&label=Profile+Views&color=ffb6c1" alt="Profile views" />
+  </a>
+</p>
+
+---
+<p align="left">
+  <a href="https://github.com/Mahaamimiii/Mahaamimiii/raw/main/MahashreeU_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20Resume-FF69B4?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mahashree-uvaraj-aa9907289/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 🚀 About Me
 
-I'm **Mahashree Uvaraj**, a tech-driven and creatively inclined individual currently pursuing B.Tech in **Artificial Intelligence and Data Science**.  
-I’m passionate about bridging the gap between innovation and impact through cloud computing, data analytics, full-stack development, and intuitive design.
+Hi, I'm **Mahashree Uvaraj**, a passionate AI & Data Science student, creative entrepreneur, and aspiring developer. I’m driven by the intersection of art and technology, and I love crafting experiences that blend functionality, design, and intelligence.
 
-As a proud advocate of women in tech, I'm constantly building, learning, and growing — whether it's contributing to research, scaling creative ideas, or designing inclusive tools that make a difference.
-
----
-🔬 Co-authoring an **IEEE-style paper on NeuroBuddyAI**, a behavior-aware learning platform for neurodivergent students  
-🎨 Running my own **art business**, building an e-commerce site (₹10,000+ revenue so far)  
-📈 Developing a vendor analytics dashboard using **SQL + Python + Power BI**  
-📚 Sharing daily updates on **#100DaysOfLeetCode** on LinkedIn & LeetCode
+-  Researching: Behavior-aware AI for neurodivergent learners (IEEE – NeuroBuddyAI)  
+-  Building: E-commerce website for my brand “Mimi Arts” (₹10K+ in sales)  
+-  Learning: React, Power BI, Linux, advanced HTML/CSS, and cloud-native development  
+-  Exploring: Azure, AWS, Data Visualization, Full-stack & AI/ML integration  
+-  Ask me about: Azure, Python, React, or how to turn your **art into a digital product**  
+-  Open to: Open-source, internships, and impactful collaborations
 
 ---
 
-## 🚧 Currently Working On
+## 🌐 Connect with Me
 
-- 🧠 **NeuroBuddyAI Research Paper**  
-  Emotion-aware, cloud-based learning tool using **AI, ML, and Azure**
-
-- 🖼️ **Mimi Arts E-Commerce Website**  
-  Selling handcrafted art using **HTML, CSS, React** – live soon!
-
-- 📊 **Vendor Performance Dashboard**  
-  KPI-based analytics using **SQL, Python, Power BI**
-
-- 💻 **#100DaysOfLeetCode**  
-  Daily DSA + consistent posting on LinkedIn
-
----
-
-## 💼 Skills & Technologies
-
-- ☁️ **Cloud**: Azure, AWS (EC2, S3, SNS)  
-- 🧑‍💻 **Languages**: Python, Java, C  
-- 🌐 **Frontend**: HTML, CSS, JS, React (learning)  
-- 📊 **Data**: SQL, Pandas, Power BI  
-- 🛠️ **Version Control**: Git, GitHub  
-- 🎨 **UI/UX**: Figma, Lucidchart
+<p align="left">
+  <a href="mailto:mahashree20uva@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mahashree-uvaraj-aa9907289/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/mimi._arts_/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://github.com/Mahaamimiii/Mahaamimiii/raw/main/MahashreeU_Resume.pdf">
+    <img src="https://img.shields.io/badge/Download%20Resume-FF69B4?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 🛠 Tech Stack
+
+| Category         | Technologies                                                                                              |
+|------------------|-----------------------------------------------------------------------------------------------------------|
+| **Frontend**     | ![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)  
+                   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+                   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+                   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) |
+| **Backend**      | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+| **Cloud**        | ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
+| **Databases**    | ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)  
+| **Data Tools**   | ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+                   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) |
+| **Dev Tools**    | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+                   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+                   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
+| **Languages**    | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+                   ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+                   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) |
+
+---
+
+## 📌 Projects
 
 ### 🧠 NeuroBuddyAI  
-> AI-powered learning for neurodivergent students  
-- Emotion recognition, RL-adaptation  
-- Built with **React + FastAPI + Azure + Firebase**
+- Behavior-aware, emotion-driven AI e-learning platform for neurodivergent students  
+- Stack: **React + FastAPI + Azure Cognitive Services + Firebase**  
+- 📑 IEEE-style paper in progress  
+
+### 🖼️ Mimi Arts E-Commerce  
+- Personal E-commerce art business storefront built using **React**  
+- ₹10,000+ revenue and growing, to handle order requests, place customizations and deliver products after payments.  
 
 ### 🩺 VirtualHealthAI  
-> Azure-based health assistant with Power BI dashboards
+- Cloud-dependent health assistant using Azure + Power BI + Cognitive Services  
+- AI driven concern prediction with the symptoms given by the user. Analyzes symptoms, visualizes reports, guides users to consult doctors.
+- Visualizes reports, suggests medication and doctors around the neighbourhood.
 
-### 🌍 ReGeo  
-> Multi-cloud facial-recognition attendance using Azure + AWS + MongoDB
+### 🌍 ReGeo -  group project 
+- Multi-cloud face recognition attendance with Azure Face API + AWS SNS + MongoDB
+- ERP systemfor college. It ensures secure, real-time attendance tracking with geofencing and cross-platform integration.
 
-### 🎮 AUTILEARN  
-> Visual-audio e-learning platform for autistic children using **Speech-to-Text**
-
-### 🖼️ Mimi Arts E-Commerce Website *(In Progress)*  
-> A digital store for my art – built with **React + CSS**
-
-### 📊 Vendor Performance Dashboard *(In Progress)*  
-> Analytics dashboard tracking supplier KPIs using **Power BI**
+### 📊 Vendor Performance Dashboard  
+- SQL + Python + Power BI based dashboard for tracking vendor KPIs
+- Data science project to predict, analyse and track vendor performances for business setup.
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 **Winner** – Azure AI Innovation Challenge 2024 (Microsoft Reactor, Bangalore)  
-- 🥈 **Runner-up** – Hack-a-Cloud 2025  
-- 💼 Internship – Java + Web Dev (DLK Technologies)
+- 🥇 Winner – **Azure AI Innovation Challenge** (Microsoft Reactor, Bangalore)  
+- 🥈 Runner-up – **Hack-a-Cloud 2025**  
+- 💼 Internship – Java + Web Development @ DLK Technologies
 
 ---
 
 ## 📜 Certifications
 
 - ✅ Microsoft Certified: Azure Fundamentals (AZ-900)  
-- ✅ AWS: Introduction to Cloud  
+- ✅ AWS: Introduction to Cloud Sem 1,2
 - ✅ C Programming – Skillrack
+- ✅ MongoDB - Introduction to MongoDB for students
 
 ---
 
-## 📎 Resume & Links
-
-- 📄 [Download Resume](https://github.com/Mahaamimiii/Mahaamimiii/raw/main/MahashreeU_Resume.pdf)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/mahashree-uvaraj-aa9907289/)  
-- 📊 [AZ-900 Credential](https://learn.microsoft.com/en-us/users/mahashreeuvaraj-0656/credentials/fc6d5dfe9e3e55f8)  
-- 🏅 [AWS Badge](https://www.credly.com/badges/074bf6b5-6219-4806-a7bf-45ad89a51ce8/public_url)  
-- 🧪 [Skillrack](http://www.skillrack.com/profile/448535/9b2694d6786f2d945e426915fdbd18ad4e504f6f)
-
----
-
-## 📈 GitHub Stats & Analytics
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mahaamimiii&show_icons=true&theme=tokyonight" />
