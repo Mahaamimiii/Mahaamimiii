@@ -12,16 +12,6 @@
 </p>
 
 ---
-<p align="left">
-  <a href="https://github.com/Mahaamimiii/Mahaamimiii/raw/main/MahashreeU_Resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20Resume-FF69B4?style=for-the-badge&logo=readthedocs&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/mahashree-uvaraj-aa9907289/" target="_blank">
-    <img src="https://img.shields.io/badge/View%20LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
 
 ## 🚀 About Me
 
