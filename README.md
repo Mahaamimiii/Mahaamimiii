@@ -4,7 +4,6 @@
 <p align="center">
   AI & Data Science Student |  Cloud Enthusiast |  Researcher | Creative Entrepreneur
 </p>
----
 
 ## 🚀 About Me
 
