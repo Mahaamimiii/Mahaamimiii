@@ -5,7 +5,7 @@
   AI & Data Science Student |  Cloud Enthusiast |  Researcher | Creative Entrepreneur
 </p>
 
-## 🚀 About Me
+## About Me
 
 Hi, I'm **Mahashree Uvaraj**, a passionate AI & Data Science student, creative entrepreneur, and aspiring developer. I’m driven by the intersection of art and technology, and I love crafting experiences that blend functionality, design, and intelligence.
 
