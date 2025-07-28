@@ -58,10 +58,6 @@ Hi, I'm **Mahashree Uvaraj**, a passionate AI & Data Science student, creative e
 - Stack: **React + FastAPI + Azure Cognitive Services + Firebase**  
 - 📑 IEEE-style paper in progress  
 
-### 🖼️ Mimi Arts E-Commerce  
-- Personal E-commerce art business storefront built using **React**  
-- ₹10,000+ revenue and growing, to handle order requests, place customizations and deliver products after payments.  
-
 ### 🩺 VirtualHealthAI  
 - Cloud-dependent health assistant using Azure + Power BI + Cognitive Services  
 - AI driven concern prediction with the symptoms given by the user. Analyzes symptoms, visualizes reports, guides users to consult doctors.
@@ -71,17 +67,12 @@ Hi, I'm **Mahashree Uvaraj**, a passionate AI & Data Science student, creative e
 - Multi-cloud face recognition attendance with Azure Face API + AWS SNS + MongoDB
 - ERP systemfor college. It ensures secure, real-time attendance tracking with geofencing and cross-platform integration.
 
-### 📊 Vendor Performance Dashboard  
-- SQL + Python + Power BI based dashboard for tracking vendor KPIs
-- Data science project to predict, analyse and track vendor performances for business setup.
-
 ---
 
 ## 🏆 Achievements
 
 - 🥇 Winner – **Azure AI Innovation Challenge** (Microsoft Reactor, Bangalore)  
 - 🥈 Runner-up – **Hack-a-Cloud 2025**  
-- 💼 Internship – Java + Web Development @ DLK Technologies
 
 ---
 
